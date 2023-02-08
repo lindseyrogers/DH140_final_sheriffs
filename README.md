@@ -1,4 +1,5 @@
-# DH140_final_sheriffs
+# Coding for the Humanities: Final Project
+# Preliminary Research and Direction of Project
 
 ## Data and Vis of Interest
 ### [Using Data to Reduce Police Violence](https://heinonline.org/HOL/P?h=hein.journals/bclr57&i=117)
@@ -33,7 +34,9 @@ Bilateral Trade | This dataset, also not from the links above, provides tabular 
 Library Book Aquisitions | This dataset made me think of a book I read last year, *Palaces for the People*, by Eric Klinenberg, which analyzed how libraries provided a safe refuge during the Chicago heat wave. This dataset, paired with other socioeconomic datasets, could be used for similar analysis in the midwest to make a further argument about the benefits of social infrastructure. | [Library Acqusitions](https://cardinalscholar.bsu.edu/handle/123456789/194598)
 
 ## Direction for the Final Project
-This final project will serves as a continuation of an exploratory research project I began in the Fall using the Mapping Police Violence dataset. This dataset is a .csv file that has over 10,000 data entries with interesting data collected for each entry. While I am not entirely sure which direction I want to take this final project, I have some ideas:
+This final project will serves as a continuation of an exploratory research project I began in the Fall using the Mapping Police Violence dataset. Results from this past project show promise for future research, such as an indication of spatial and temporal trends in this data. 
+
+This dataset is a .csv file that has over 10,000 data entries with interesting data collected for each entry. While I am not entirely sure which direction I want to take this final project, I have some ideas:
 * Mapping where police and sheriff violence takes place (creating a map in python)
 * Analyzing trends of violence over time (seperating the data by year)
 * Analyzing language of prominent constitutional sheriffs (This is not using the Mapping Police Violence dataset, but is more of a proof of concept for a methodology I've been thinking about as we go through this class)
