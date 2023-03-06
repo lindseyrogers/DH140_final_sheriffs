@@ -7,7 +7,7 @@
 This article explores the possible implications of the Death in Custory Reporting Act in 2014 as a way to reduce police violence through data analysis. This idea is a main pillar of my current research, which I hope to use skills from this class to continue. Rushin explains that this act makes police violence data public, which alone would not lead to police reform, but with analysis has the potential to change these trends.
 
 ## Link to myBinder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lindseyrogers/DH140_final_sheriffs/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lindseyrogers/DH140_final_sheriffs.git/HEAD)
 
 ### Bused Out: Where America Moves its Homeless
 ![alt text](https://www.maptive.com/wp-content/uploads/2022/03/distribution-chart.png "Data Visualiation")
