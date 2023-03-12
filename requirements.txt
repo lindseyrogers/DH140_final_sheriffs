@@ -1,7 +1,7 @@
 pandas
 geopandas
 contextily
-matplotlib.pyplot
+matplotlib
 numpy
 folium
 datetime
