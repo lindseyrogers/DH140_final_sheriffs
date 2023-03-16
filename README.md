@@ -8,6 +8,7 @@
 2. Simplified Mapping Police Violence Datasets and boundary geoJSON files
 3. Requirements file
 4. README file
+5. Links to MyBinder and Blog
 
 
 ## Project Background
@@ -19,6 +20,9 @@ Studying Constitutional Sheriffs is difficult because there is not a complete an
 ### Where is sheriff violence happening? Are there spatial trends that emerge from the data?
 
 This project uses two primary datasets for analysis. The first dataset is the Mapping Police Violence database. This is a collection of data on civilians killed by police or sheriff officers since 2013. The dataset has over 10,000 entries with information such as the name of the victim, the agency responsible, and the lat and long location of the death. This dataset was downloaded from the link, then I simplified the dataset in excel and uploaded the simplified dataset to my personal github. The second dataset is the UCLA Law COVID 19 Behind Bars dataset. This dataset is primarly focued on collecting information relating to deaths within US federal prisons. Relating to sheriff violence, there are a few points of data relating to deaths within county prisons. This data, collected by facility, will be extracted for analysis. This dataset is accessed through the UCLA Law Behind Bars github.
+
+## To view this project in blog-format, follow this link
+[Sheriff Blog](https://lindseyrogers.github.io/sheriffblog/posts/final_sheriffs.html). 
 
 ## Data Used
 |Data Source|
